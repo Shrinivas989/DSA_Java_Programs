@@ -1,4 +1,4 @@
-package com.SwitchStatements;
+package com.FunctionsandMethods;
 
 import java.util.Scanner;
 
@@ -19,18 +19,18 @@ public class NestedSwitch {
             case 3:
                 System.out.println("Emp num 3");
                 switch (department)
-              {
-                  case "IT":
-                      System.out.println("IT Department");
-                      break;
-                  case "Management":
-                      System.out.println("Management Department");
-                      break;
-                  default:
-                      System.out.println("No department for emp");
+                {
+                    case "IT":
+                        System.out.println("IT Department");
+                        break;
+                    case "Management":
+                        System.out.println("Management Department");
+                        break;
+                    default:
+                        System.out.println("No department for emp");
 
-              }
-              break;
+                }
+                break;
             default:
                 System.out.println("enter correct empid");
         }
