@@ -1,22 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c7b92af1-1f30-4440-8ca7-9d3ebc3c9fcc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java__Programs.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Basics/EvenOdd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Basics/GreetingMessage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Basics/Temeprature.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ConditionsandLoops/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ConditionsandLoops/CaseCheck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ConditionsandLoops/CountNums.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ConditionsandLoops/Fibonacci.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ConditionsandLoops/Largest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ConditionsandLoops/Reverse.java" afterDir="false" />
+    <list default="true" id="c7b92af1-1f30-4440-8ca7-9d3ebc3c9fcc" name="Changes" comment="updated">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ConditionsandLoops/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ConditionsandLoops/Calculator.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,39 +18,33 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2LcS1Jx3VPPTo6NktUO2tR24Uko" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.Temeprature">
-    <configuration name="CaseCheck" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ConditionsandLoops.CaseCheck" />
-      <module name="Java__Programs" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.ConditionsandLoops.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="EvenOdd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Basics.EvenOdd" />
+}</component>
+  <component name="RunManager" selected="Application.NestedSwitch">
+    <configuration name="Armstrong" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Basics.Armstrong" />
       <module name="Java__Programs" />
       <extension name="coverage">
         <pattern>
@@ -75,8 +56,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GreetingMessage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Basics.GreetingMessage" />
+    <configuration name="KilometerToMiles" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Basics.KilometerToMiles" />
       <module name="Java__Programs" />
       <extension name="coverage">
         <pattern>
@@ -88,12 +69,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Temeprature" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Basics.Temeprature" />
+    <configuration name="NestedSwitch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.FunctionsandMethods.NestedSwitch" />
+      <module name="Java__Programs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.FunctionsandMethods.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Percentage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Basics.Percentage" />
       <module name="Java__Programs" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.Basics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SwitchMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.FunctionsandMethods.SwitchMain" />
+      <module name="Java__Programs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.FunctionsandMethods.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,10 +110,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Temeprature" />
-        <item itemvalue="Application.CaseCheck" />
-        <item itemvalue="Application.EvenOdd" />
-        <item itemvalue="Application.GreetingMessage" />
+        <item itemvalue="Application.NestedSwitch" />
+        <item itemvalue="Application.KilometerToMiles" />
+        <item itemvalue="Application.Percentage" />
+        <item itemvalue="Application.SwitchMain" />
+        <item itemvalue="Application.Armstrong" />
       </list>
     </recent_temporary>
   </component>
@@ -119,6 +127,91 @@
       <option name="presentableId" value="Default" />
       <updated>1676168663098</updated>
     </task>
+    <task id="LOCAL-00001" summary="updated">
+      <created>1676169429003</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1676169429003</updated>
+    </task>
+    <task id="LOCAL-00002" summary="updated">
+      <created>1676169656029</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1676169656029</updated>
+    </task>
+    <task id="LOCAL-00003" summary="updated">
+      <created>1676420596961</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1676420596961</updated>
+    </task>
+    <task id="LOCAL-00004" summary="updated">
+      <created>1676420723230</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1676420723230</updated>
+    </task>
+    <task id="LOCAL-00005" summary="updated">
+      <created>1676567772268</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1676567772268</updated>
+    </task>
+    <task id="LOCAL-00006" summary="updated">
+      <created>1676567806413</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1676567806413</updated>
+    </task>
+    <task id="LOCAL-00007" summary="updated">
+      <created>1676568042043</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1676568042043</updated>
+    </task>
+    <task id="LOCAL-00008" summary="updated">
+      <created>1676568098477</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1676568098477</updated>
+    </task>
+    <task id="LOCAL-00009" summary="updated">
+      <created>1676568300000</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1676568300000</updated>
+    </task>
+    <task id="LOCAL-00010" summary="updated">
+      <created>1676568354793</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1676568354793</updated>
+    </task>
+    <task id="LOCAL-00011" summary="updated">
+      <created>1676568365708</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1676568365708</updated>
+    </task>
+    <task id="LOCAL-00012" summary="updated">
+      <created>1676574693194</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1676574693194</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -131,5 +224,24 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="updated" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/com/FunctionsandMethods/StringExample2.java</url>
+          <line>3</line>
+          <properties class="com.FunctionsandMethods.StringExample2" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
