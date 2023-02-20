@@ -13,6 +13,7 @@ public class Calculator {
             char op = in.next().trim().charAt(0);
 
             if (op == '+' || op == '-' || op == '*' || op == '/' || op == '%') ;
+
             {
                 System.out.print("Enter two numbers:");
                 System.out.println();
